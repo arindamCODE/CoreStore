@@ -1,0 +1,10 @@
+c:\Users\Administrator\Desktop\CoreStore\CoreStore.Web\bin\Debug\netcoreapp2.0\CoreStore.Web.deps.json
+c:\Users\Administrator\Desktop\CoreStore\CoreStore.Web\bin\Debug\netcoreapp2.0\CoreStore.Web.runtimeconfig.json
+c:\Users\Administrator\Desktop\CoreStore\CoreStore.Web\bin\Debug\netcoreapp2.0\CoreStore.Web.runtimeconfig.dev.json
+c:\Users\Administrator\Desktop\CoreStore\CoreStore.Web\bin\Debug\netcoreapp2.0\CoreStore.Web.dll
+c:\Users\Administrator\Desktop\CoreStore\CoreStore.Web\bin\Debug\netcoreapp2.0\CoreStore.Web.pdb
+c:\Users\Administrator\Desktop\CoreStore\CoreStore.Web\obj\Debug\netcoreapp2.0\CoreStore.Web.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Desktop\CoreStore\CoreStore.Web\obj\Debug\netcoreapp2.0\CoreStore.Web.AssemblyInfoInputs.cache
+c:\Users\Administrator\Desktop\CoreStore\CoreStore.Web\obj\Debug\netcoreapp2.0\CoreStore.Web.AssemblyInfo.cs
+c:\Users\Administrator\Desktop\CoreStore\CoreStore.Web\obj\Debug\netcoreapp2.0\CoreStore.Web.dll
+c:\Users\Administrator\Desktop\CoreStore\CoreStore.Web\obj\Debug\netcoreapp2.0\CoreStore.Web.pdb
